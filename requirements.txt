@@ -1,9 +1,14 @@
 streamlit
+
 langchain
 langchain-core
 langchain-community
+langchain-huggingface
 langchain-google-genai
+
 faiss-cpu
 python-dotenv
 pypdf
 tiktoken
+sentence-transformers
+google-generativeai
